@@ -126,7 +126,7 @@ Tkinter is included with most standard Python installations on Windows.
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Saleh-Rs/Student-Score-Predictor.git
 
 Navigate to the project directory:
 
